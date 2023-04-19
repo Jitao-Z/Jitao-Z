@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**Jitao-Z/Jitao-Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## Greetings! 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,4 +7,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: jitaoz2003@gmail.com
 - ⚡ Fun fact: I am an amateur drone pilot and a travel vlogger
--->
+
